@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width"> 
+	<link rel="stylesheet" href="css/style.css">
+	<title>Contact</title>
+</head>
+<body>
+	<header class="main-header">
+
+		<figure class="logo">
+			<img src="images/header-logo.png" alt="logo Hostro">
+			<figcaption>Logo Hostro Hosting Services</figcaption>
+		</figure>
+
+		<nav class="main-nav">
+			<ul>
+				<li><a href="index.html">Home</a></li>
+				<li><a href="contact.html">Contact</a></li>
+			</ul>
+		</nav>
+
+		<div class="cleaner"></div>
+	</header>
+	
+</body>
+</html>
